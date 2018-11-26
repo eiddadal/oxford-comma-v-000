@@ -6,7 +6,6 @@ if array.length == 1
   array.join(" and ")
   elsif array.length >=3 
   array.join(",") + ", and " + last_element
-else 
  
 end 
 end
