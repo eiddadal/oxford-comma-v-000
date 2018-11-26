@@ -7,6 +7,7 @@ if array.length == 1
   elsif array.length >=3
   last_element=array.pop
   array.join(", ")+", and "+ last_element
- 
+end 
+
 end 
 end
